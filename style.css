@@ -1,0 +1,29 @@
+.contenido{
+    background-color: orange;
+    width: 800px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    padding: 20px;
+    margin-top:0;
+    margin-bottom:15px;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 5px 10px orangered;
+
+}
+.contenido2{
+    width: 800px;
+    margin: 0px auto;
+    text-align: center;
+}
+.imagen{
+    width: 800px;
+    border-radius: 20px;
+    margin: 0px auto;
+    box-shadow: 5px 10px grey;
+}
+body{
+    font-family: sans-serif;
+    
+    
+}
